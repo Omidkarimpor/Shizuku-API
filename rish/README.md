@@ -44,4 +44,4 @@ Adb (Shizuku can run under adb) does not have sufficient permissions to access s
 
 If the backend runs under adb, `RISH_PRESERVE_ENV` will be treated as `0` when not set.
 
-If the backend runs under root, `RISH_PRESERVE_ENV` will be treated as `1` when not set.
+If the backend runs under root, `RISH_PRESERVE_ENV` will be treated as `1` when not set.![Screenshot_۲۰۲۴۰۹۲۳_۰۰۱۸۴۴_Dub Music Player](https://github.com/user-attachments/assets/23f1ac0d-d32e-4d0b-acc4-abc6fe826452)
